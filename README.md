@@ -2,18 +2,18 @@
 ## latihan1.py : menentukan nilai terbesar dari 3 bilangan yang di inputkan
 1. menginputkan nilai ke variable a,b,c 
 
-  a = int(input ("masukan nilai  a : "))
-  b = int(input ("masukan nilai  b : "))
-  c = int(input ("masukan nilai  c : "))
+a = int(input ("masukan nilai  a : "))
+b = int(input ("masukan nilai  b : "))
+c = int(input ("masukan nilai  c : "))
 
 2. membandingka nilai terbesar antara variable a dan b
   - jika nilai variable a adalah nilai terbesarnya, maka variable a dibandingkan lagi dengan variable c
     - jika nilai variable a lebih besar dari c, maka yang tercetak adalah nilai a
     - jika nilai variable c lebih besar dari a, maka yang tercetak adalah nilai c
-3. jika nilai variable b lebih besar dari variable a, maka nilai b akan dibandingkan lagi dengan variable b
+3. jika nilai variable b lebih besar dari variable a, maka nilai b akan dibandingkan lagi dengan variable c
   - jika variable b lebih besar dari c, maka yang tercetak adalah nilai b
   - jika variable c lebih besar dari b, maka yang tercetak adalah nilai c
-4. jika nilai c lebih besar dari bariable a dan c, maka yang tercetak adalah nilai c
+4. jika nilai c lebih besar dari bariable a dan b, maka yang tercetak adalah nilai c
 5. selesai
 
 berikut kode lengkapnta : 
